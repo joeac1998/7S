@@ -1,0 +1,42 @@
+@import url("https://use.fontawesome.com/releases/v6.1.0/css/all.css");
+
+.fondo {
+    background-color: blueviolet;
+    background-image: url("../img/satoru.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.container {
+    height: 300px;
+    border: 1px;
+
+}
+h1 {
+    text-align: center;
+    background-color: grey;
+    color: blue;
+    text-size-adjust: 32px;
+}
+
+h2 {
+    background-color: grey;
+    color: blue;
+}
+.espacio {
+    height: 200px;
+}
+li {
+    font-weight: bold;
+}
+
+.normal {
+    font-weight: normal;
+}
+
+.background {
+    background: linear-gradient(blueviolet, pink)
+}
+
+.iconos {
+    text-align: center;
+}
